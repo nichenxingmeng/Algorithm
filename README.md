@@ -1,2 +1,2 @@
-# Python-Algorithm
-Python算法模板
+# Algorithm
+Python/C++算法模板
